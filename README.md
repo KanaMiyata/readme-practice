@@ -6,7 +6,7 @@
 
 ![http image](https://living-maou.com/wp-content/uploads/2024/01/internet-mechanism06.png)
 
-## クエリ文字列とパスパラ変数
+## クエリ文字列とパス変数
 
 ### クエリ文字列とは？
 
@@ -39,7 +39,7 @@ https://example.com/users/{username}
 特定のもの（画面など）に条件を加える場合に必要なるもの。
 データベースに対する命令文、もしくは、検索キーワード！
 
-〇パスパラメーター
+〇パス変数
 
 特定のもの（画面など）を表示したいときに必要になるもの。
 
