@@ -43,7 +43,7 @@ https://example.com/users/{username}
 
 特定のもの（画面など）を表示したいときに必要になるもの。
 
-## Http とは？ 
+## HTTP とは？ 
 <span style="color:red;">「Hyper Text Transfer Protocol」</span>の略。
 ホームページのファイル等を受け渡しするときに使うお約束事。
 
