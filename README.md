@@ -47,7 +47,7 @@ https://example.com/users/{username}
 <span style="color:red;">「Hyper Text Transfer Protocol」</span>の略。
 ホームページのファイル等を受け渡しするときに使うお約束事。
 
-### HTTTメソッドとは？ 
+### HTTPメソッドとは？ 
 対象となるリソースに対して、何をしたいのか指示をする。
 
 メソッドは、HTTPプロトコルにおいてクライアントとサーバー間でデータの取得、作成、更新、削除などの操作を行うために使用される。
